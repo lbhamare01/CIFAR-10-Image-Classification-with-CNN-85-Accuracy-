@@ -46,7 +46,5 @@ Training and validation curves show stable convergence with no significant overf
 - Experiment with learning rate scheduling
 - Train for more epochs (100+)
 
-## Author
-Lalit Bhamare
 
 
